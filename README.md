@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HRMW1SP83CCKJPNSERXYZV51
-  version: v3
----
-
 ## Playwright
 Built by Microsoft, Playwright is a Node.js library that, with a single API, automates Chromium, Firefox, and WebKit.
 
