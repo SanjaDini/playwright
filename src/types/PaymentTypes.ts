@@ -1,4 +1,4 @@
-type PaymentType = {
+export type PaymentType = {
   NAME: string;
   COUNTRY: string;
   CITY: string;
